@@ -1,1 +1,2 @@
-/* Add CSS Styling */
+.first-line,.third-line,.fifth-line { background:pink ; font-family: verdana , "dejaVu Sans" , sans serif}
+#first-id {color: blue ; font-size:36px}
