@@ -1,17 +1,11 @@
 .first-line,.third-line,.fifth-line
- { background:rgb(hsl(350, 100%, 88%)) 
-
-
-    ; font-family: verdana , "dejaVu Sans" , sans serif}
+ { background:hsl(350, 100%, 88%)
+; font-family: verdana , "dejaVu Sans" , sans serif}
 #first-id
- {color:rgb(hsl(240, 100%, 50%))
-
-    
-    ; font-size:36px}
+ {color:hsl(240, 100%, 50%)
+; font-size:36px}
 
 .third-line{font-size:24px}
 
-#second-id {background:rgb(0, 128, 0)
-
-
-    ;font-size:24px;font-weight:bold}
+#second-id {background:rgb(144, 238, 144)
+;font-size:24px;font-weight:bold}
